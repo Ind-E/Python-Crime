@@ -13,3 +13,4 @@ Data: FBI Crime data
 - States with higher populations will have higher robbery rates
 - Years where there are more law enforcement employees per 1000 people will have less robbery
 - the most commonly robbed locations vary by state
+- The average number of crimes committed by offenders under 30 years old is greater than the number of crimes committed by offenders 30 and older.
